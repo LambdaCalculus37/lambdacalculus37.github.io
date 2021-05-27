@@ -23,7 +23,7 @@ email: viewtiful.icchan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    Hacking the Planet.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lambdacalculus37.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LambdaCalculus7
 github_username:  LambdaCalculus37
 
