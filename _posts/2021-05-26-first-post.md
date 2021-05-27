@@ -29,4 +29,5 @@ Essentially, this is a blog, so whatever I feel like sharing or posting that may
 
 For now, you can still see my Twitter posts [here](https://twitter.com/LambdaCalculus7).
 
-Hope to see everyone soon!
+Hope to see everyone soon, and remember:
+![HACK THE PLANET!!](/assets/hack-the-planet.jpg)
