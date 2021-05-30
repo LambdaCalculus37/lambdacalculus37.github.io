@@ -28,7 +28,7 @@ twitter_username: LambdaCalculus7
 github_username:  LambdaCalculus37
 
 # Build settings
-theme: minima
+theme: jekyll-whiteglass
 plugins:
   - jekyll-feed
 
