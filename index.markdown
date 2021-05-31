@@ -2,5 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
+
+A hacker who wears many hats throughout life.
+
+![HACK THE PLANET!!!](/assets/hack-the-planet.jpg)
