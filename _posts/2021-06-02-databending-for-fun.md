@@ -83,4 +83,4 @@ Pretty freaky sounding stuff!
 
 All in all, databending and glitch art are fun hacks to data that some don't really think of outside of the realm of "create" and "display". We are "creating", but perhaps it's creating by breaking? We create weird beauty from something broken? Are we breaking our visions of what reality is? Are we circumventing the notions of reality? Who knows! But I do have to say that creating glitch art and doing databending is a fun process, and there are many, many more ways of trashing data in the name of art out there. If you'd like to get started making your own glitch art, a quick search in your favorite search engine will turn up some good results for generators, where you can load an image up and screw with it to your heart's content. But I do implore you all: get out there and have some fun. Make crazy shit. Go wild. Enjoy yourselves. There's no right or wrong way to do it!
 
-Happy hacking! :)
+Happy hacking, everyone! :)
