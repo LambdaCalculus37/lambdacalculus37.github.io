@@ -3,6 +3,7 @@ layout: post
 title:  "Finding the Right Linux Distro"
 date:   2021-05-26 22:35:16 -0400
 categories: linux
+tags: linux linux-distros
 ---
 
 # Or: If It Works for You, Go For It, and Let's Be More Human about It
