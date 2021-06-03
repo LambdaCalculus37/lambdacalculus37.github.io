@@ -3,6 +3,7 @@ layout: post
 title:  "Data Bending for Fun!"
 date:   2021-06-02 21:37:50 -0400
 categories: databending
+tags: databending glitch-art creativity art
 ---
 
 As everyone knows, computers have a purpose of working with data. You feed data into a computer; new data comes back. This data will serve all kinds of purposes.
